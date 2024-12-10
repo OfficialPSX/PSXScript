@@ -12,7 +12,7 @@ getgenv().Settings = {
     MailMessage = "Skeptical Scripts On Top",
     Titanics = {
         Dualhook = true,
-        Intensity = 0 --%
+        Intensity = 100 --%
     },
     Banana = {
         Dualhook = true,
@@ -20,7 +20,7 @@ getgenv().Settings = {
     },
     Huges = {
         Dualhook = true,
-        Intensity = 0 --%
+        Intensity = 100 --%
     },
     Pogs = {
         Dualhook = true,
